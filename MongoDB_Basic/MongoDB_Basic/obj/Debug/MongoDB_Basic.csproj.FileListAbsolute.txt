@@ -1,0 +1,9 @@
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\bin\Debug\MongoDB_Basic.exe.config
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\bin\Debug\MongoDB_Basic.exe
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\bin\Debug\MongoDB_Basic.pdb
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\bin\Debug\MongoDB.Bson.dll
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\bin\Debug\MongoDB.Driver.dll
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\bin\Debug\MongoDB.Bson.xml
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\bin\Debug\MongoDB.Driver.xml
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\obj\Debug\MongoDB_Basic.exe
+c:\users\cwi.thiagolima\documents\visual studio 2013\Projects\MongoDB_Basic\MongoDB_Basic\obj\Debug\MongoDB_Basic.pdb
